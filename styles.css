@@ -15,28 +15,19 @@ body {
   
   h1 {
     margin-top: 100px;
-    font-size: 2.5em;
+    font-size: 2.25em;
     color: #C00000;
   }
   
   .buttons {
-    margin-top: 20px;
+    margin-top: 10px;
   }
   
-  .yes-button {
+  .button {
     font-size: 1.5em;
     padding: 10px 20px;
     margin-right: 10px;
-    background-color: #FF8896;
-    color: white;
-    border: none;
-    border-radius: 15px;
-    cursor: pointer;
-  }
-  
-  .no-button {
-    font-size: 1.5em;
-    padding: 10px 20px;
+    margin-top: 10px;
     background-color: #FF8896;
     color: white;
     border: none;
