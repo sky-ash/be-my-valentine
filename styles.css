@@ -14,7 +14,7 @@ body {
   }
   
   h1 {
-    margin-top: 200px;
+    margin-top: 100px;
     font-size: 2.5em;
     color: #C00000;
   }
@@ -30,7 +30,7 @@ body {
     background-color: #FF8896;
     color: white;
     border: none;
-    border-radius: 5px;
+    border-radius: 15px;
     cursor: pointer;
   }
   
@@ -40,13 +40,13 @@ body {
     background-color: #FF8896;
     color: white;
     border: none;
-    border-radius: 5px;
+    border-radius: 15px;
     cursor: pointer;
   }
   
   .gif_container img {
-    max-width: 100%;
+    max-width: 80%;
     height: auto;
-    border-radius: 10px;
+    border-radius: 25px;
     margin-top: 20px;
   }

@@ -23,17 +23,16 @@
 })();
 
 const messages = [
-    "u sure?",
+    "are u sure?",
     "really sure??",
-    "please?",
+    "say yes, please?",
     "pretty please??",
     "<- click here",
     "<- THIS BUTTON",
-    "wiwiwi >:(",
+    "...wiwiwi >:(",
     "WI WI WI >:(",
-    "i will stop asking if you say yes!",
-    "fine, i will stop asking...",
-    ":("
+    "just say yes!",
+    "fine, i'll stop..."
 ];
 
 let messageIndex = 0;
