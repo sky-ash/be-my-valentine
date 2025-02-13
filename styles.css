@@ -23,7 +23,19 @@ body {
     margin-top: 10px;
   }
   
-  .button {
+  .yes-button {
+    font-size: 1.5em;
+    padding: 10px 20px;
+    margin-right: 10px;
+    margin-top: 10px;
+    background-color: #FF8896;
+    color: white;
+    border: none;
+    border-radius: 15px;
+    cursor: pointer;
+  }
+
+  .no-button {
     font-size: 1.5em;
     padding: 10px 20px;
     margin-right: 10px;
